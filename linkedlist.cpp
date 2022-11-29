@@ -1,4 +1,4 @@
-//insertion perform in linked list
+//insertion and deletion perform in linked list
 #include<iostream>
 #include<stdlib.h>
 using namespace std;
