@@ -105,7 +105,7 @@ int Display()
             cout << "\nFor Display in Forward Direction only : Press 1\n";
             cout << "For Display in Backward Direction only : Press 2\n";
             cout << "For Display in Both Direction only : Press 3\n";
-            cout << "For Exit : Press 4\n";
+            cout << "For Exit the Display : Press 4\n";
             cout << "Enter Choice: ";
             cin >> choise;
             switch (choise)
